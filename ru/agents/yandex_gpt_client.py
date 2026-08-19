@@ -40,6 +40,7 @@
 ╚══════════════════════════════════════════════════════════════════════════════╝
 """
 
+from openai import AsyncOpenAI
 import aiohttp
 import json
 import logging
