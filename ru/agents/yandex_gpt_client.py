@@ -39,8 +39,7 @@
 ║                                                                              ║
 ╚══════════════════════════════════════════════════════════════════════════════╝
 """
-
-from openai import AsyncOpenAI
+from yandex_ai_studio_sdk import AsyncAIStudio
 import aiohttp
 import json
 import logging
